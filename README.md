@@ -1,2 +1,2 @@
-# palyastronomy.github.io
+# Club Website
 Website for the Paly Astronomy Club
