@@ -167,14 +167,24 @@
 
     }
 
+    .normmedia{
+      left:revert;
+    }
+  
+    .normtext{
+      right:revert;
+  
+    }
+
     .squish{
       position:relative;
       top:0!important;
     }
 
     .section{
-      margin-bottom:400px;
-
+      margin-bottom:100px;
+      height:fit-content;
+      
     }
 
 }
