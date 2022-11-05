@@ -77,6 +77,8 @@
     .intro div{
       border-radius:5px;width:80%;height:100%;margin:auto;background:url(../images/M31Clouds_Fryhover_960.jpg);background-size:cover;
     }
+
+    
     
 
     .anchor{
@@ -133,12 +135,24 @@
 
   .shiftmedia{
     position:relative;
-    left:-50%;
+    left:-53%;
   }
 
   .shiftdesc{
     position:relative;
-    right:-50%;
+    right:-53%;
+
+  }
+
+  
+  .normmedia{
+    position:relative;
+    left:3%;
+  }
+
+  .normtext{
+    position:relative;
+    right:3%;
 
   }
 
