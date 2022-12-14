@@ -1,2 +1,2 @@
-# Club Website
-Website for the Paly Astronomy Club
+# Stargazing Website
+Website for stargazing
